@@ -4,7 +4,7 @@ title:
 permalink: /about/
 subtitle: <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 nav: true
-nav_order: 3
+nav_order: 1
 
 profile:
   align: right
