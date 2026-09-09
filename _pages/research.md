@@ -6,8 +6,9 @@ nav: true
 nav_order: 3
 ---
 
+<div style="text-align: justify;" markdown="1">
 
-In the following, I comment about some of my research interests. The viewpoint is that of an insider, when possible, and that of a spectator where not.
+In the following, I comment about some of my research interests. The viewpoint is that of an insider when possible, and that of a spectator where not.
 
 
 <strong>Finite Element Systems (FES)</strong>
@@ -22,3 +23,4 @@ An interesting programme to accomplish is that of Finite Element Tensor Calculus
 
 Significant attention has been put into the discretisation of so-called double-forms, which can be regarded as sections of $\Lambda^p(\mathcal S)\otimes \Lambda^q(\mathcal S)$ or $q$-form-valued differential $p$-forms. This is a notable case within the programme, which includes relevant objects such as connections and various notions of curvature tensors, and leads naturally to bundle-valued finite element spaces. This has been studied to some extent within Finite Element Systems by [Christiansen and Hu](https://link.springer.com/article/10.1007/s10208-022-09555-x) and Discrete Exterior Calculus by [Berwick-Evans, Hirani and Schubel](https://arxiv.org/abs/2406.05383). However, a general theory within FETC is yet to be developed. 
 
+</div>
