@@ -3,7 +3,7 @@ layout: default
 permalink: /research/
 title: research
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <div style="text-align: justify;" markdown="1">
