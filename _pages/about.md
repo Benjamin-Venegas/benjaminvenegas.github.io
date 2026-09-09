@@ -1,7 +1,7 @@
 ---
 layout: about
 title: 
-permalink: /
+permalink: /about/
 subtitle: <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
 profile:
@@ -26,7 +26,7 @@ latest_posts:
 
 <div style="text-align: justify;" markdown="1">
 
-I'm currently starting a DPhil in Mathematics at the University of Oxford (Pembroke College), under the supervision of [Prof. Kaibo Hu](https://kaibohu.github.io/). You can find my institutional page [here](https://maths.ox.ac.uk/people/Benjamin.venegassolis).
+I'm an incoming DPhil student in Mathematics at the University of Oxford (Pembroke College), under the supervision of [Prof. Kaibo Hu](https://kaibohu.github.io/). You can find my institutional page [here](https://maths.ox.ac.uk/people/Benjamin.venegassolis).
 
 Previously, I graduated from Civil Mathematical Engineering at Universidad de Concepción (UdeC), Chile. I wrote my undergraduate dissertation under the supervision of [Prof. Snorre Christiansen](https://www.mn.uio.no/math/english/people/aca/snorrec/index.html), titled ["On the discretization of Dirac equations in the framework of Finite Element Systems"](https://repositorio.udec.cl/server/api/core/bitstreams/03b0c59b-14a4-4b8b-9055-f6650849aacf/content).
 
